@@ -14,5 +14,5 @@ Based on the results of the Surfs_up Analysis it appears that although the two m
 
 Two additional queries we could perform to gather more weather data is to filter the date column from the Measurement table to retrieve all the precipitation recordings instead of the temperature in June as well as December. Another query we could perform is to retrieve all of the temperature recordings in another month other than June and December.
 
-<img src="ph_ana_3.png" width="50%" height="50%" title="Retiring Title Counts">  
-<img src="ph_ana_5.png" width="50%" height="50%" title="Non-Retiring Title Counts">  
+<img src="prcp_queries.png" width="50%" height="50%" title="PRCP Queries">  
+<img src="tobs_july.png" width="50%" height="50%" title="July Temperature query">  
