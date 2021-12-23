@@ -1,4 +1,6 @@
 # Surfs_up_Analysis
+Please reach out to me, Jamar Adams, at adams.jamar757@gmail.com
+
 
 ## Overview of Surfs_Up Analysis
 The purpose of this analysis was to calculate the statisstics on temperature data for the months of June and December in Oahu so that we can determine if the surf and ice cream shop business is sustainable year-round.
